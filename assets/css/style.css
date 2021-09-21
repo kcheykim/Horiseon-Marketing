@@ -16,7 +16,7 @@ header {
 }
 
 header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
@@ -34,7 +34,7 @@ header nav {
 
 header nav ul li {
     list-style: none;
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
 }
 
@@ -194,4 +194,5 @@ footer {
 
 footer h2 {
     font-size: 20px;
+    display: inline;
 }
